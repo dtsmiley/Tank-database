@@ -1,5 +1,9 @@
 # Tank-database
+#Subcategory World War ii
+
 A python dictionary that holds iconic (and not so iconic) tanks throughout history. WIP
+
+this subcategory will focus on the tanks manufactered and used during the second world war.
 
 Countries to be included: United States, Germany, Russia, and Great Britian others may be added at later times
 
